@@ -27,8 +27,8 @@ import filesystem3.FileViewerWindow;
 /**
  * <p>FileViewerWindowTests</p>
  * <p>Description: CS343 Group Project</p>
- * @author Ken Peck <ken.peck@my.uwrf.edu>
- * @author Jason Skinner <jason.skinner@my.uwrf.edu>
+ * @author Ken Peck
+ * @author Jason Skinner
  *
  * <p>Tests for the <code>FileViewerWindow</code> class.</p>
  * <p>Written by Ken Peck and Jason Skinner.</p>

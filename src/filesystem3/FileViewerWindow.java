@@ -98,7 +98,7 @@ public class FileViewerWindow extends JFrame implements ActionListener {
 	 * fs data from the operating system.
 	 */
 	public FileViewerWindow() {
-		super("Java File Manager v" + version);
+		super("Java Disk Explorer v" + version);
 
 		// These panels are used for layout of the window.
 		goPanel = new JPanel(new BorderLayout());

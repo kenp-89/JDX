@@ -25,6 +25,7 @@ import javax.swing.filechooser.FileSystemView;
 /**
  * <p>FileViewerWindow</p>
  * <p>Description: CS343 Group Project</p>
+ * Original team:
  * @author Ken Peck
  * @author Jason Skinner
  * @author Robbie Fox

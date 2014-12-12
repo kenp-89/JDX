@@ -3,6 +3,7 @@ package filesystem3;
 /**
  * <p>JavaDiskExplorer</p>
  * <p>Description: CS343 Group Project</p>
+ * Original team:
  * @author Ken Peck
  * @author Jason Skinner
  * @author Robbie Fox
